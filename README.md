@@ -4,7 +4,8 @@
   - M365 Managment
   - Computer Vision using OpenCV and Python
   - Unix Shell scripting to make life easier on macOS
-- 🌱 I’m currently learning all of the above.
+  - Learning to use Computer Vision/ML to explore [unknown symbols](https://folios.mathisha.com/glyphs).
+  - Distributed Asychronous work.
 - 📫 How to reach me : via [LinkedIn](https://au.linkedin.com/in/mathisha) 
 
 <!---
